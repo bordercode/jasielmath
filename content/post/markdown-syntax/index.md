@@ -1,7 +1,7 @@
 ---
 categories:
-- themes
-- syntax
+- Study
+- Practice
 date: "2023-09-07"
 description: Comenzamos con la definición de Algebra
 tags:
@@ -16,6 +16,8 @@ title: First lesson. What is Algebra?
 - ¿Cómo surge esta parte de las matemátaicas? 
 
 - ¿Que diferencia tiene con la aritmética? 
+
+**Nota:** *Para cubrir estos temas preeliminares revisar libro de página  5 a 27.*
 
 - Notación Algebraica
 - Signos de operación
@@ -36,11 +38,12 @@ title: First lesson. What is Algebra?
 - El grado de un término
 - Clases de términos
 
-### CLASIFICACIÓN DE LAS EXPRESIONES ALGEBRAICAS
+### Clasificación de las expresiones algebraicas
 
-MONOMIO
-POLINOMIO
-EL GRADO
+- Monomio
+- Polinomio
+- El grado
+
 
 - Clases de polinomios
 - Ordenar un polinomio
@@ -48,12 +51,12 @@ EL GRADO
 - Términos semejantes
 - Reducción de términos semejantes
 
-> Reducción de un polinomio que contenga
-Términos semejantes de diversas clases
+### Reducción de un polinomio que contenga términos semejantes de diversas clases
 
-- VALOR NUMÉRICO
+- valor numérico
 
-*valor numérico de expresiones simples*
-*valor numérico de expresiones compuestas*
+- valor numérico de expresiones simples
+
+- valor numérico de expresiones compuestas
 
 
