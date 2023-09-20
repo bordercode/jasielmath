@@ -1,0 +1,12 @@
+detach("package:blogdown", unload = TRUE)
+blogdown::new_site(theme = "CaiJimmy
+/
+hugo-theme-stack")
+
+
+blogdown::serve_site()
+
+
+blogdown::build_site()
+
+
