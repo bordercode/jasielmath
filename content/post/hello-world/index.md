@@ -1,6 +1,6 @@
 ---
 categories:
-- Example Category
+- Algebra introduction
 date: 2023-09-19 00:00:00+0000
 description: This is our math class site, Welcome. 
 image: cover1.jpg

@@ -1,8 +1,8 @@
 ---
-description: A description of this category
+description: Esta primera parte contiene las bases para el estudio del algebra para nivel preparatoria. 
 image: null
 style:
-  background: '#2a9d8f'
+  background: '#e87f1c'
   color: '#fff'
-title: Example Category
+title: Introduction topic 
 ---
