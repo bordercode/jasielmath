@@ -3,7 +3,7 @@
     "path": "C:/Users/josel/Desktop/on/web/jasielmath/config/_default/config.yaml",
     "project_path": "config/_default/config.yaml",
     "type": "yaml",
-    "hash": "35095792",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1695181137534.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "65,15",
-        "scrollLine": "58"
+        "cursorPosition": "66,45",
+        "scrollLine": "61"
     },
     "folds": "",
     "lastKnownWriteTime": 1695181231,
