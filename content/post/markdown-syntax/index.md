@@ -26,3 +26,34 @@ title: First lesson. What is Algebra?
 - Cantidades positivas y negativas
 - Ejercicios sobre cantidades
 - Positivas y negativas
+- Valor absoluto y valor relativo
+- Cantidades aritméticas y algebraicas
+- Representación gráfica de la serie
+- Algebraica de los números
+- Nomenclatura algebraica
+- Expresión algebraica
+- Término
+- El grado de un término
+- Clases de términos
+
+### CLASIFICACIÓN DE LAS EXPRESIONES ALGEBRAICAS
+
+MONOMIO
+POLINOMIO
+EL GRADO
+
+- Clases de polinomios
+- Ordenar un polinomio
+- Término independiente de un polinomio con relación a una letra.
+- Términos semejantes
+- Reducción de términos semejantes
+
+> Reducción de un polinomio que contenga
+Términos semejantes de diversas clases
+
+- VALOR NUMÉRICO
+
+*valor numérico de expresiones simples*
+*valor numérico de expresiones compuestas*
+
+
