@@ -1,8 +1,8 @@
 ---
 categories:
 - Example Category
-date: 2022-03-06 00:00:00+0000
-description: Welcome to Hugo Theme Stack
+date: 2023-09-19 00:00:00+0000
+description: This is our math class site, Welcome. 
 image: cover.jpg
 slug: hello-world
 tags:
@@ -25,7 +25,10 @@ Nuestro horario de clase es de lunes a viernes de 1:40a  2:25.
 
 ## Temas 
 
-I  Introducción. Las bases conceptuales sobre los números y la notación usada. 
+**I  Introducción. Las bases conceptuales sobre los números y la notación usada.** Ver páginas 1-44 Baldor.
+
+**II La suma en algebra**  Ver paginas 40-45
+
 
 
 
