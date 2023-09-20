@@ -31,4 +31,5 @@ Nuestro horario de clase es de lunes a viernes de 1:40a  2:25.
 
 
 
-
+Before we continue, lets get Python Anaconda distribution which is a platform  where we can practice our math and data science skills.
+[click here](https://www.anaconda.com/download#downloads)
