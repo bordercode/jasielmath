@@ -3,7 +3,7 @@
     "path": "C:/Users/josel/Desktop/on/web/jasielmath/hugo.toml",
     "project_path": "hugo.toml",
     "type": "toml",
-    "hash": "0",
+    "hash": "1743024756",
     "contents": "",
     "dirty": false,
     "created": 1695173242741.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,0",
+        "cursorPosition": "0,44",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1695173168,
+    "lastKnownWriteTime": 1695177222,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1695173168,
+    "last_content_update": 1695177222162,
     "read_only": false,
     "read_only_alternatives": []
 }
