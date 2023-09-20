@@ -1,7 +1,5 @@
-detach("package:blogdown", unload = TRUE)
-blogdown::new_site(theme = "CaiJimmy
-/
-hugo-theme-stack")
+
+blogdown::new_site(theme = "CaiJimmy/hugo-theme-stack-starter")
 
 
 blogdown::serve_site()
