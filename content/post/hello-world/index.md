@@ -7,7 +7,7 @@ image: cover1.jpg
 slug: hello-world
 tags:
 - Example Tag
-title: First lesson. What is Algebra? 
+title: Temas para el curso y reglas del juego. 
 weight: 1
 ---
 
@@ -21,7 +21,7 @@ First things first!
 El libro que llevaremos es el Baldor. Ya tienes el enlace. 
 
 
-Nuestro horario de clase es de lunes a viernes de 1:40a  2:25.
+Nuestro horario de clase es de lunes a viernes de 1:40 a  2:25.
 
 ## Temas 
 
