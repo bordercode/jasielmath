@@ -3,7 +3,7 @@
     "path": "C:/Users/josel/Desktop/on/web/jasielmath/content/post/hello-world/index.md",
     "project_path": "content/post/hello-world/index.md",
     "type": "markdown",
-    "hash": "2088670122",
+    "hash": "1450680800",
     "contents": "",
     "dirty": false,
     "created": 1695178311110.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "27,76",
-        "scrollLine": "11"
+        "cursorPosition": "28,0",
+        "scrollLine": "22"
     },
     "folds": "",
-    "lastKnownWriteTime": 1695178787,
+    "lastKnownWriteTime": 1695179020,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1695178787389,
+    "last_content_update": 1695179020786,
     "read_only": false,
     "read_only_alternatives": []
 }

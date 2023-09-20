@@ -25,7 +25,7 @@ Nuestro horario de clase es de lunes a viernes de 1:40a  2:25.
 
 ## Temas 
 
-I  Introducción. Las bases conceptuale sobre ls numeros y lanotación usada. 
+I  Introducción. Las bases conceptuales sobre los números y la notación usada. 
 
 
 
